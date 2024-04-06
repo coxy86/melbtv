@@ -6,4 +6,4 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.content.foxtel.com.au/licenseServer/widevine/v1/foxtelott/license?contentId=stx_504504
 
-https://d12td5qyzlja4f.cloudfront.net/v1/dash/b259a4c6c7055dd33d5a9109c9d584b5dd51dd5a/StrEx-dash-avc-drm-session/out/v1/25061f77ab8c49029d1fa61bf00a92da/index.mpd?aws.manifestfilter=audio_codec%3AAACL%3Btrickplay_height%3A1-2&aws.sessionId=27d49582-8d8a-458b-b6f9-ba37062fa4e2
+https://d12td5qyzlja4f.cloudfront.net/v1/dash/b259a4c6c7055dd33d5a9109c9d584b5dd51dd5a/StrEx-dash-avc-drm-session/out/v1/25061f77ab8c49029d1fa61bf00a92da/index.mpd?aws.manifestfilter=audio_codec%3AAACL%3Btrickplay_height%3A1-2&aws.sessionId=ac875ef7-e6df-424d-bbc9-c5e5548e8bee
