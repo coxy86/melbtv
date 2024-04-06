@@ -3,8 +3,8 @@
 #EXTINF:-1 channel-id="401" group-title="Movies;Foxtel Go" tvg-chno="401" tvg-id="Foxtel Movies Premiere HD" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=527476:206:CHANNEL:IMAGE:png&w=400#Movies%20Premiere|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Movies Premiere" , Movies Premiere
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_527476&SessionId=662DE6BCDE00C201&Ticket=15275F920C0B20BB
+#KODIPROP:inputstream.adaptive.license_type=
+#KODIPROP:inputstream.adaptive.license_key=
 
 https://d12td5qyzlja4f.cloudfront.net/v1/dash/b259a4c6c7055dd33d5a9109c9d584b5dd51dd5a/StrEx-dash-avc-drm-session/out/v1/25061f77ab8c49029d1fa61bf00a92da/index.mpd?aws.manifestfilter=audio_codec%3AAACL%3Btrickplay_height%3A1-2&aws.sessionId=27d49582-8d8a-458b-b6f9-ba37062fa4e2
 
