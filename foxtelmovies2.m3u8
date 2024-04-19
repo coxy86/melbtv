@@ -6,7 +6,7 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_527476&SessionId=91CF5D6CDE0BA265&Ticket=684561C93AD251A2
 
-http://127.0.0.1:52103/http://foxteldashlive01.akamaized.net/live/channel025/channel025_mcs.isml/playlist_high.mpd?hdnts=exp=1713512631~hmac=13683455393f48fc52c1136894d5c9a603ce19a97d1513804520229cf1c1c473
+http://foxteldashlive01.akamaized.net/live/channel025/channel025_mcs.isml/playlist_high.mpd?hdnts=exp=1713512631~hmac=13683455393f48fc52c1136894d5c9a603ce19a97d1513804520229cf1c1c473
 
 #EXTINF: -1 channel-id="402" group-title="Movies;Foxtel Go" tvg-chno="402" tvg-id="MVS" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=1321675:206:CHANNEL:IMAGE:png&w=400#Movies%20Hits|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Movies Hits" , Movies Hits
 
