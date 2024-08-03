@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://i.mjh.nz/Foxtel/epg.xml.gz"
+#EXTM3U x-tvg-url="https://i.mjh.nz/Foxtel/epg.xml"
 
 #EXTINF:-0 channel-id="503" group-title="Sport;Foxtel Go" tvg-chno="503" tvg-id="FS3" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=542984:206:CHANNEL:IMAGE:png&w=400#Fox%20Sports%20503|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="FOX Footy" , FOX Sports 503
 
