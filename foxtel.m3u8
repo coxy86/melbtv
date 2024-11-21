@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/australiapremium3.xml.gz"
 
-#EXTINF:-1 channel-id="106" group-title="Entertainment;Foxtel Go" tvg-chno="106" tvg-id="LifeStyle Channel LST.au" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/foxtellifestylefinl.png" tvg-name="LifeStyle" , LifeStyle
+#EXTINF:-1 channel-id="106" group-title="Entertainment;Foxtel Go" tvg-chno="106" tvg-id="LifeStyle Channel LST.au" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/foxtellifestylefinal.png" tvg-name="LifeStyle" , LifeStyle
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
