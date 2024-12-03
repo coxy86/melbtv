@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/australiapremium3.xml.gz"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/coxy86/autvicons/refs/heads/main/foxtel.xml"
 
 #EXTINF:-0 channel-id="503" group-title="Sport;Foxtel Go" tvg-chno="503" tvg-id="FS3" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/foxtelfoxfooty503.png" tvg-name="FOX Footy" , FOX Sports 503
 
