@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/australiapremium3.xml.gz"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/coxy86/autvicons/refs/heads/main/foxtel.xml"
 
 #EXTINF:-1 channel-id="106" group-title="Entertainment;Foxtel Go" tvg-chno="106" tvg-id="LifeStyle Channel LST.au" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/foxtellifestyle.png" tvg-name="LifeStyle" , LifeStyle
 
