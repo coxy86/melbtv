@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/coxy86/epg/refs/heads/main/foxtelnow.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/coxy86/autvicons/refs/heads/main/guide.xml"
 
 #EXTINF:-1 channel-id="106" group-title="Foxtel Go" tvg-chno="106" tvg-id="LST" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/foxtellifestyle.png" tvg-name="LifeStyle" , LifeStyle
 
